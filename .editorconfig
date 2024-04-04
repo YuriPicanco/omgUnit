@@ -1,0 +1,19 @@
+# top-most EditorConfig file
+root = true
+
+# Indentation
+[*]
+indent_style = space
+indent_size = 2
+
+# Unix-style newlines
+[*]
+end_of_line = lf
+
+# Trim trailing whitespace
+[*]
+trim_trailing_whitespace = true
+
+# Charset encoding
+[*]
+charset = utf-8
